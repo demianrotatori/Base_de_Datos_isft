@@ -1,6 +1,6 @@
 {
     "name": "MariaDB Environment",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "image": "ubuntu:22.04",
     "features": {
         "ghcr.io/devcontainers/features/sshd:1": {},
         "ghcr.io/devcontainers/features/common-utils:2": {
